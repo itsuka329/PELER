@@ -51,7 +51,7 @@ function title() {
 		width: 80,
 		whitespaceBreak: false
 	})))
-	console.log(chalk.yellow(`\n${chalk.red('[ STORE - BOT ]')}\n\n${chalk.italic.magenta('• Author')} : ${chalk.white('Lexxy24')}\n${chalk.italic.magenta('• YouTube')} : ${chalk.white('Lexxy Official')}\n${chalk.italic.magenta('• Caption')} : ${chalk.white('Rela Bergadang Demi Mencari Cuan:v')}\n`))
+	console.log(chalk.yellow(`\n${chalk.red('[ STORE - BOT ]')}\n\n${chalk.italic.magenta('• Author')} : ${chalk.white('ItsukaAllan')}\n${chalk.italic.magenta('• YouTube')} : ${chalk.white('ItsukaAllan')}\n${chalk.italic.magenta('• Caption')} : ${chalk.white('Rela Bergadang Demi Mencari Cuan:v')}\n`))
 }
 /**
 * Uncache if there is file change;
