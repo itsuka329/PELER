@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "Lexxy Official",
+  "author": "ItsukaAllan",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.3.0",
